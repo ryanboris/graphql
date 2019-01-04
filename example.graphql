@@ -1,0 +1,6 @@
+interface Inventory {
+  id: ID!
+  name: String!
+  description: String
+  price: Int
+}
